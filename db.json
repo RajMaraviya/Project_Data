@@ -1,0 +1,37 @@
+{
+    "posts": [
+      {
+        "id": 1,
+        "title": "json-server",
+        "author": "typicode"
+      }
+    ],
+    "comments": [
+      {
+        "id": 1,
+        "body": "some comment",
+        "postId": 1
+      }
+    ],
+    "personaldata": [
+      
+      {
+        "name": "ryhty",
+        "fname": "tuuy",
+        "phone": "9328808660",
+        "email": "jhtfjht",
+        "id": 2
+      }
+      
+    ],
+    "gallery": [
+      {
+        "id": 1,
+        "name": "Mehul",
+        "imgurl": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg"
+      }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
