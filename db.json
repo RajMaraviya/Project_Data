@@ -14,7 +14,6 @@
       }
     ],
     "personaldata": [
-      
       {
         "name": "ryhty",
         "fname": "tuuy",
@@ -22,14 +21,18 @@
         "email": "jhtfjht",
         "id": 2
       }
-      
     ],
     "gallery": [
       {
         "id": 1,
         "name": "Mehul",
         "imgurl": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg"
-      }
+      },
+        {
+            "id": 1,
+            "name": "Mehul",
+            "imgurl": "https://cdn.pixabay.com/photo/2015/04/19/08/32/marguerite-729510_1280.jpg"
+          }
     ],
     "profile": {
       "name": "typicode"
